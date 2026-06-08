@@ -2,26 +2,40 @@
 
 # Daniel Alarcón Perea
 
-ASIR | Sistemas, redes, servicios, seguridad y despliegue web
+Administración de Sistemas Informáticos en Red
 
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,nginx,apache,mysql,sqlite,html,css,js,php,wordpress,py,git,github&perline=8" alt="Stack principal">
+Sistemas, redes, servicios, seguridad, bases de datos y despliegue web
+
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,nginx,mysql,sqlite,html,css,js,php,wordpress,py,git,github,vscode&perline=8" alt="Stack principal">
 
 </div>
 
-## Sobre mí
+## Perfil técnico
 
-Estoy centrando mi GitHub en lo que he trabajado durante ASIR, especialmente en segundo curso: administración de sistemas, servicios de red, seguridad, bases de datos, despliegue web y automatización con scripts.
+Portfolio orientado a la administración de sistemas, redes, servicios, seguridad y despliegue web. El contenido recoge prácticas, apuntes y proyectos desarrollados durante ASIR, con especial peso en segundo curso.
 
-Me interesa la parte práctica de la infraestructura: montar servicios, entender redes, automatizar tareas, documentar bien lo que hago y aplicar seguridad de forma realista. El proyecto final también toca Raspberry Pi, MQTT/mTLS y AWS IoT Core, pero AWS aparece ahí como parte de Sentinel-IT, no como el centro de todo mi perfil.
+El foco principal está en infraestructura y servicios: Linux, scripting, redes, bases de datos, despliegue web, HTML, CSS, JavaScript, PHP, WordPress, Docker y documentación técnica. AWS IoT Core aparece dentro del TFG Sentinel-IT como parte de su arquitectura, no como tecnología principal del perfil.
 
-## Lo que más quiero destacar
+## Áreas principales
 
 <table>
   <tr>
     <td width="50%">
       <h3>2ASIR</h3>
-      <p>La parte más completa del portfolio: Linux, scripting, servicios, redes, seguridad, bases de datos y despliegue web.</p>
-      <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,nginx,apache,mysql,html,css,js,php,wordpress&perline=6" alt="Stack 2ASIR">
+      <p>Administración Linux, servicios de red, seguridad, bases de datos, Docker, scripting y despliegue web.</p>
+      <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,nginx,mysql,html,css,js,php,wordpress,git&perline=6" alt="Stack 2ASIR">
+    </td>
+    <td width="50%">
+      <h3>Despliegue web</h3>
+      <p>Prácticas con HTML, CSS, JavaScript, PHP, MySQL, WordPress y servidores web.</p>
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,nginx,vscode&perline=4" alt="Stack web">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Sistemas y redes</h3>
+      <p>Servicios Linux, automatización con scripts, configuración de red, ACL, routing y documentación de prácticas.</p>
+      <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,git,github&perline=6" alt="Stack sistemas">
     </td>
     <td width="50%">
       <h3>Sentinel-IT</h3>
@@ -31,35 +45,10 @@ Me interesa la parte práctica de la infraestructura: montar servicios, entender
   </tr>
 </table>
 
-## Stack por áreas
+## Proyectos
 
-### Sistemas, servicios e infraestructura
-
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,nginx,apache,git,github,vscode&perline=9" alt="Sistemas e infraestructura">
-
-### Web y bases de datos
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,sqlite&perline=7" alt="Web y bases de datos">
-
-### Python y laboratorios
-
-<img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,git,vscode&perline=5" alt="Python y laboratorios">
-
-## Proyectos principales
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/danielalarconperea/asir-learning-portfolio">ASIR Learning Portfolio</a></h3>
-      <p>Repositorio central con prácticas y apuntes de ASIR organizados por cursos y áreas: sistemas, redes, seguridad, servicios, bases de datos, scripting y despliegue web.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/danielalarconperea/asir-learning-portfolio/tree/main/projects/final-project">Sentinel-IT</a></h3>
-      <p>Proyecto final con dos nodos Raspberry Pi, telemetría MQTT/mTLS, dashboard Flask y análisis de eventos de seguridad.</p>
-    </td>
-  </tr>
-</table>
-
-## Repositorio destacado
-
-[![ASIR Learning Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=danielalarconperea&repo=asir-learning-portfolio&theme=github_dark&hide_border=true)](https://github.com/danielalarconperea/asir-learning-portfolio)
+| Proyecto | Descripción |
+| --- | --- |
+| [ASIR Learning Portfolio](https://github.com/danielalarconperea/asir-learning-portfolio) | Repositorio central con prácticas y apuntes de ASIR organizados por cursos y áreas técnicas. |
+| [Sentinel-IT](https://github.com/danielalarconperea/asir-learning-portfolio/tree/main/projects/final-project) | Proyecto final con dos nodos Raspberry Pi, telemetría MQTT/mTLS, dashboard Flask y análisis de eventos de seguridad. |
+| [Python Learning Lab](https://github.com/danielalarconperea/asir-learning-portfolio/tree/main/python-learning-lab) | Ejercicios de Python y pruebas de aprendizaje con pequeños laboratorios de backend. |
