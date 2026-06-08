@@ -1,6 +1,6 @@
-# Hola, soy Daniel Alarcon
+# Hola, soy Daniel Alarcón
 
-Formacion en Administracion de Sistemas Informaticos en Red, con interes en sistemas, redes, scripting, bases de datos y seguridad.
+Técnico superior en Administracion de Sistemas Informaticos en Red, con interes en sistemas, redes, scripting, bases de datos, seguridad y sobre todo IA y macroeconomía.
 
 ## Areas trabajadas
 
