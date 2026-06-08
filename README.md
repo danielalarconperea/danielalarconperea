@@ -14,7 +14,7 @@ Sistemas | DevOps | Ciberseguridad | IA & Automatización
 
 Técnico orientado a la infraestructura, la ciberseguridad y la integración de IA en flujos de trabajo técnicos. Actualmente aplico estos conocimientos en el sector corporativo, trabajando enfocado en criptografía y seguridad.
 
-- **IA y Agentes Inteligentes:** Apasionado por la Inteligencia Artificial aplicada a sistemas. Uso intensivo de modelos actuales (Opus 4.8, Gemini 3.1 Pro, GPT 5.5) y herramientas de agentes autónomos (Hermes Agent, OpenClaw, Codex, Claude Code, Antigravity) para automatización avanzada, análisis de logs y desarrollo.
+- **IA y Agentes Inteligentes:** Apasionado por la Inteligencia Artificial aplicada a sistemas. Uso intensivo de modelos actuales y herramientas de agentes autónomos para automatización avanzada, análisis de logs y desarrollo.
 - **Stack principal:** Administración Linux, despliegues con Infraestructura como Código (Ansible, Terraform, Docker) y scripting avanzado (Python/Bash).
 - **Foco técnico:** Securización de entornos, criptografía, arquitecturas distribuidas e integración de IA para la optimización y el análisis de infraestructuras.
 - **Mindset:** Proactivo y analítico. Buscar la raíz del problema, automatizar lo repetitivo apoyándome en IA y escalar las soluciones.
