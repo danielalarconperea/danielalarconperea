@@ -16,5 +16,5 @@ Formacion en Administracion de Sistemas Informaticos en Red, con interes en sist
 | Repo | Contenido |
 | --- | --- |
 | [asir-learning-portfolio](https://github.com/danielalarconperea/asir-learning-portfolio) | Practicas, apuntes y proyectos de ASIR separados por cursos y areas. |
-| [Final Project](https://github.com/danielalarconperea/asir-learning-portfolio/tree/main/projects/final-project) | Proyecto final con Raspberry Pi, AWS IoT Core, Docker, MQTT/TLS y seguridad distribuida. |
+| [Sentinel-IT](https://github.com/danielalarconperea/asir-learning-portfolio/tree/main/projects/final-project) | SOC autonomo y distribuido con Raspberry Pi, AWS IoT Core, MQTT/mTLS, Docker, Python y Flask. |
 | [Python Learning Lab](https://github.com/danielalarconperea/asir-learning-portfolio/tree/main/python-learning-lab) | Ejercicios y pruebas de aprendizaje en Python. |
