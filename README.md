@@ -1,8 +1,8 @@
 # Hola, soy Daniel Alarcon
 
-Estoy estudiando Administracion de Sistemas Informaticos en Red y voy centrando mi trabajo en sistemas, redes, scripting, bases de datos y seguridad.
+Formacion en Administracion de Sistemas Informaticos en Red, con interes en sistemas, redes, scripting, bases de datos y seguridad.
 
-## Lo que estoy trabajando
+## Areas trabajadas
 
 - Linux y administracion de sistemas
 - Redes, routing, ACL, OSPF y servicios de red
@@ -17,4 +17,4 @@ Estoy estudiando Administracion de Sistemas Informaticos en Red y voy centrando 
 | --- | --- |
 | [asir-learning-portfolio](https://github.com/danielalarconperea/asir-learning-portfolio) | Practicas, apuntes y proyectos de ASIR separados por cursos y areas. |
 | [Final Project](https://github.com/danielalarconperea/asir-learning-portfolio/tree/main/projects/final-project) | Proyecto final con Raspberry Pi, AWS IoT Core, Docker, MQTT/TLS y seguridad distribuida. |
-| [Python Learning Lab](https://github.com/danielalarconperea/asir-learning-portfolio/tree/main/python-learning-lab) | Ejercicios y pruebas que he ido haciendo para aprender Python. |
+| [Python Learning Lab](https://github.com/danielalarconperea/asir-learning-portfolio/tree/main/python-learning-lab) | Ejercicios y pruebas de aprendizaje en Python. |
