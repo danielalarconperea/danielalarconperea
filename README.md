@@ -26,3 +26,7 @@ Técnico orientado a la infraestructura, la ciberseguridad y la integración de 
 | **[Sentinel-IT](https://github.com/danielalarconperea/asir-learning-portfolio/tree/main/projects/final-project)** | `Python`, `Docker`, `AWS IoT`, `IA` | **TFG (Finalizado).** Sistema de seguridad distribuido con hardware perimetral. Telemetría segura (MQTT/mTLS) y agentes de IA integrados (Google ADK) para análisis avanzado. |
 | **[Infra & Networking](https://github.com/danielalarconperea/asir-learning-portfolio)** | `Linux`, `Bash`, `Routing` | Documentación técnica y despliegues: configuraciones de red, ACLs, servidores web y servicios base. |
 | **[Python Lab](https://github.com/danielalarconperea/asir-learning-portfolio/tree/main/python-learning-lab)** | `Python`, `Flask`, `SQLite` | Entorno de desarrollo para scripts de administración, laboratorios de backend y experimentación con IA. |
+
+## Mini proyectos
+
+- [Facturacion Automatica](https://github.com/danielalarconperea/facturacion-automatica) - Aplicacion local para automatizar facturas con calculo de IVA, documentos Word y SQLite.
